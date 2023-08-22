@@ -1,5 +1,5 @@
 ## FreeVPN
-v2ray订阅地址---自建 https://free.vpn66.eu.org/
+v2ray订阅地址---自建稳定 https://free.vpn66.eu.org/
 
 
 v2ray订阅地址---每2小时全网抓取一次节点 https://free.88zh.top/
